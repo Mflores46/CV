@@ -1,1 +1,70 @@
 # CV
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+        <h1>Michael Flores</h1>
+        <p><em>Adaptive creative professional with extensive experience in project management, client communication, and organization wide leadership excited to assist in developing strategic designs and solutiins for various applications and productions.  </em>
+      </td>
+    </tr>
+  </table>
+  <hr size=3 noshade>
+  <br>
+  <h2>Education and Experience</h2>
+  <ul>
+    <li> University Of Central Florida - Architecture </li>
+    <li>UX & UI Web Design Master Course: Strategy, Design, and Development, Give Good UX by Joe Natoli, 2020</li>
+    <li>Complete Full Stack Web & Software Development Bootcamp, London App Brewery, 2020</li>
+  </ul>
+  <hr>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+    <tfoot>
+    </tfoot>
+    <tr>
+      <td>04/2019 - Present</td>
+      <td>Operations and Client Relations Manager</td>
+      <td>Omura, Los Angeles, CA</td>
+    </tr>
+    <tr>
+      <td>09/2016 - 02/2019</td>
+      <td>Director of Operations</td>
+      <td>Saints Cultivation, Seattle, WA</td>
+    </tr>
+    <tr>
+      <td>07/2015 - 07/2016</td>
+      <td>Project Manager & Estimator</td>
+      <td>Lumenomics Illumination Designs, Seattle, WA</td>
+    </tr>
+    <tr>
+      <td>07/2012 - 06/2015</td>
+      <td>Merchandising Project Supervisor</td>
+      <td>Home Depot Inc., Orlando, FL</td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>‣</td>
+      <td>Relationship Development & Management</td>
+      <td>‣</td>
+      <td>Information Analysis</td>
+    </tr>
+    <tr>
+      <td>‣</td>
+      <td>Project Management</td>
+      <td>‣</td>
+      <td>Business & Operations Development</td>
+    </tr>
+  </table>
+  <hr>
+  <a href="Hobbies-and-interests.html">Hobbies and Interests</a><br>
+  <a href="Contact-Me.html">Contact Me</a>
+
+</html>
